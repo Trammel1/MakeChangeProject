@@ -5,15 +5,15 @@
 ## Overview
 
 Cash register simulator
-TODO: FINISH WRITING THIS!!!
+Completed Cash Register simulator
 
 ## Technologies/Skills Used
 
 *Java
 *Eclipse
-*TODO:MORE
+*github
 
 ## Lessons Learned
 
-TODO: WRITE THIS
-
+This week in class I learned a variety of tools such as IF, ELSE, FOR, and other different types of loops.
+Along with different Data types and compiled all the skills taught to create a cash register simulator
